@@ -1,6 +1,6 @@
 # 📊 Proyecto de Machine Learning: Análisis de Rendimiento Estudiantil
 
-## 📝 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar un conjunto de datos basado en características de estudiantes para resolver dos problemas de negocio distintos utilizando técnicas de Machine Learning: uno predictivo continuo (Regresión) y uno de segmentación binaria (Clasificación). 
 
 El análisis se divide en dos notebooks principales que abordan diferentes preguntas clave sobre el desempeño académico y las necesidades de los alumnos.
